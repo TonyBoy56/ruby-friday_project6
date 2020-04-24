@@ -1,6 +1,6 @@
 // https://prime.exchangerate-api.com/v5/API_KEY/latest/USD //
 
-import './main.js'
+import './main.js';
 
 export class CurrencyExchange {
   async getLatest() {
@@ -13,7 +13,7 @@ export class CurrencyExchange {
       }
       return postJSON;
     } catch (error) {
-      return ("API call Failed.")
+      return ("API call Failed.");
     }
   }
 }
