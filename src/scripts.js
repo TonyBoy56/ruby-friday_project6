@@ -15,7 +15,7 @@ export class CurrencyExchange {
       }
       return postJSON;
     } catch (error) {
-      return ("API call Failed.");
+      alert ("API call Failed.");
     }
   }
 }
