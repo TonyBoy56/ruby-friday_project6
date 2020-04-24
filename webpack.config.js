@@ -19,7 +19,7 @@ plugins: [
   new CleanWebpackPlugin(),
   new Dotenv(),
   new HtmlWebpackPlugin({
-    title: '',
+    title: 'Currency Exchanger',
     template: './src/index.html',
     inject: 'body'
   })
