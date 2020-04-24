@@ -6,16 +6,35 @@
 
 ## Description
 
-_This is an application that allows a user to exchange their U.S. currency into several other kinds of currency._
+_This is an application that allows a user to convert their U.S. currency into several other kinds of currency._
 
 ## SPEC Sheet
 
+* User enters a U.S. dollar amount to be converted to AED.  
+  * Input: 55
+  * Output: 201.9655
+
+* User enters a U.S. dollar amount to be converted to BSD.  
+  * Input: 55
+  * Output: 55
+
+* User enters a U.S. dollar amount to be converted to CAD.  
+  * Input: 55
+  * Output: 77.6435
+
+* User enters a U.S. dollar amount to be converted to CLP.  
+  * Input: 55
+  * Output: 47172.1855
+
+* User enters a U.S. dollar amount to be converted to COP.  
+  * Input: 55
+  * Output: 224324.045
 
 ## Setup/Installation Requirements
 
 _If you would like to view this project locally... :_
 
-1. Visit this link https://github.com/assassin56/ruby-friday_project5
+1. Visit this link https://github.com/assassin56/ruby-friday_project6
 
 2. Clone this repo by selecting the "clone or download" button. This will allow you to copy the repo's link.
 
