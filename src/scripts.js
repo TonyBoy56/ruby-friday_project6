@@ -1,5 +1,3 @@
-// https://prime.exchangerate-api.com/v5/API_KEY/latest/USD //
-
 import './main.js';
 
 export class CurrencyExchange {
